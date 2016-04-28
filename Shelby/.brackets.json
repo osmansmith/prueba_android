@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Ionic/Shelby/plugins/cordova-plugin-device/src/browser/DeviceProxy.js",
+        "C:/Ionic/Shelby/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js",
+        "C:/Ionic/Shelby/plugins/cordova-plugin-device/src/blackberry10/index.js",
+        "C:/Ionic/Shelby/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js",
+        "C:/Ionic/Shelby/www/lib/ionic/js/ionic.min.js"
+    ]
+}
